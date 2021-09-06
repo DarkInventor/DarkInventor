@@ -1,10 +1,11 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/header_.png" alt style="max-width: 100%;" />
 <h2> Hey Everyone ! 👋</h2>
 <p>I’m Kathan, a self-motivated tech enthusiast and full stack web developer.</p>
+<p>Web : <a href="https://darkinventor.github.io/DarkIntro/">DarkInventor</a></p>
 <p>💻 full stack developer | 🌱 problem solver | 💬 connect <a href="https://twitter.com/kathanmehtaa">@kathan_</a></p>
 
 <p>💼 any freelance work? do reach, <a href="ktmehta25@gmail.com">email</a> :)</p>
-<p>Web : <a href="https://darkinventor.github.io/DarkIntro/">DarkInventor</a></p>
+
 
 <h2> About Me </h2>
 <ul><li>A Software Engineer who loves exploring new technologies, building small projects, innovating and tinkering with stuff.</li>
