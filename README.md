@@ -1,7 +1,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/header_.png" alt style="max-width: 100%;" />
 <h2> Hey Everyone ! 👋</h2>
 <p>I’m Kathan, a self-motivated tech enthusiast</p>
-<p>💻 Data Analyst | 🌱 problem solver | 💬 connect <a href="https://twitter.com/kathanmehtaa">@kathan_</a></p>
+<p>💻 AI/ML Data Scientist | Web Designer and Developer | 🌱 problem solver | 💬 connect <a href="https://twitter.com/kathanmehtaa">@kathan_</a></p>
 
 <p>💼 any freelance work? do reach, <a href="ktmehta25@gmail.com">email</a> :)</p>
 <p>Web : <a href="https://darkinventor.github.io/DarkIntro/">DarkInventor</a></p>
@@ -11,11 +11,8 @@
 
 
 <h2> About Me </h2>
-<ul><li>A Software Engineer who loves exploring new technologies, building small projects, innovating and tinkering with stuff.</li>
-  <li>Data nerd by Day, Spreadsheet Samurai by Night (well, sometimes 😄) .</li>
+<ul><li>I love exploring new technologies, working on new ideas, innovating and tinkering with stuff.</li>
 <li>Experimenting with the data as well and currently working on completing the tableau certifications.</li>
-<li>Enjoys automating tasks to make life easier. Primarily with Python, but also occasionally with PowerShell.</li>
-  <li>Have a keen interest in preprocessing, analysing and data manipulation.</li>
   </ul>
   <h2><a id="user-content-techsoftware-stack" class="anchor" aria-hidden="true" href="#techsoftware-stack"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tech/Software Stack</h2>
   <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9ea26c636dfead57e1e63022d065fa5d02b6cae87b17f25d564e67a3df69dfbc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266d6573736167653d4a617661266c6162656c3d26636f6c6f723d303037333936266c6162656c436f6c6f723d303030303030"><img src="https://camo.githubusercontent.com/9ea26c636dfead57e1e63022d065fa5d02b6cae87b17f25d564e67a3df69dfbc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266d6573736167653d4a617661266c6162656c3d26636f6c6f723d303037333936266c6162656c436f6c6f723d303030303030" alt="Tableau" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;logo=Tableau&amp;message=Tableau&amp;label=&amp;color=007396&amp;labelColor=000000" style="max-width: 100%;"></a>
