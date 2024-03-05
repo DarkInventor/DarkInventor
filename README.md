@@ -1,7 +1,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/header_.png" alt style="max-width: 100%;" />
 <h2> Hey Everyone ! 👋</h2>
 <p>I’m Kathan, a self-motivated tech enthusiast</p>
-<p>💻 AI/ML Data Scientist | Web Designer and Developer | 🌱 problem solver | 💬 connect <a href="https://twitter.com/kathanmehtaa">@kathan_</a></p>
+<p>💻 AI/ML Data Scientist | Full - Stack Developer | Software Engineer | 🌱 problem solver | 💬 connect <a href="https://twitter.com/kathanmehtaa">@kathan_</a></p>
 
 <p>💼 any freelance work? do reach, <a href="ktmehta25@gmail.com">email</a> :)</p>
 <p>Checkout what i am building here : <a href="https://twitter.com/kathanmehtaa">DarkInventor</a></p>
@@ -12,7 +12,7 @@
 
 <h2> About Me </h2>
 <ul><li>I love exploring new technologies, working on new ideas, innovating and tinkering with stuff.</li>
-<li>Experimenting with the data as well and currently working on completing the tableau certifications.</li>
+<li>Currently I am exploring OpenAI API along with NEXT.js, Tailwind CSS, Shad-cn UI, Prisma and Supabase.</li>
   </ul>
 
 </p>
