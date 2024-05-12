@@ -1,7 +1,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/header_.png" alt style="max-width: 100%;" />
 <h2> Hey Everyone ! 👋</h2>
 <p>I’m Kathan, a self-motivated tech enthusiast</p>
-<p>💻 AI/ML Data Scientist | Full - Stack Developer | Software Engineer | 🌱 problem solver | 💬 connect <a href="https://twitter.com/kathanmehtaa">@kathan_</a></p>
+<p>💻 AI/ML Data Enthusiast | Full - Stack Developer | Software Engineer | 🌱 problem solver | 💬 connect <a href="https://twitter.com/kathanmehtaa">@kathan_</a></p>
 
 <p>💼 any freelance work? do reach, <a href="ktmehta25@gmail.com">email</a> :)</p>
 <p>Checkout what i am building here : <a href="https://twitter.com/kathanmehtaa">DarkInventor</a></p>
